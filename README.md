@@ -3,7 +3,7 @@
 * Lab1: Learn how to link files 
 
 * Lab2:
-![image](https://user-images.githubusercontent.com/59019434/169231627-fb54c14b-4423-4049-951f-de880e670b55.png)
+  * [image](https://user-images.githubusercontent.com/59019434/169231627-fb54c14b-4423-4049-951f-de880e670b55.png)
 
   * Ex1 (ask1): Create the above processes tree
   * Ex2 (ask2): Create a processes tree based on given input 
