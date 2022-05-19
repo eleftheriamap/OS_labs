@@ -12,3 +12,8 @@
   * mandelbrot.c: parallel computation of mandlebrot set [image](https://user-images.githubusercontent.com/59019434/169233868-e633dc34-d1e7-4f42-9bd3-b69bbdca2239.png)
   * kgarten.c: kindergarden simulation. We always need 1 teacher per 3 children. => synchronization to enter/leave the kindergarden
 
+* Lab 4:
+  * Ex1 (ask1.c): Create RR scheduler
+  * Ex2 (ask2.c): Check scheduler through shell 
+  * Ex3 (ask3.c): Priority scheduler
+
