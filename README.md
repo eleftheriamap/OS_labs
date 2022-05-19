@@ -17,3 +17,6 @@
   * Ex2 (ask2.c): Check scheduler through shell 
   * Ex3 (ask3.c): Priority scheduler
 
+
+
+
