@@ -13,9 +13,9 @@
   * kgarten.c: kindergarden simulation. We always need 1 teacher per 3 children. => synchronization to enter/leave the kindergarden
 
 * Lab 4:
-  * Ex1 (ask1.c): Create RR scheduler
-  * Ex2 (ask2.c): Check scheduler through shell 
-  * Ex3 (ask3.c): Priority scheduler
+  * Ex1 (final/ask1.c): Create RR scheduler
+  * Ex2 (final/ask2.c): Check scheduler through shell 
+  * Ex3 (final/ask3.c): Priority scheduler
 
 
 
