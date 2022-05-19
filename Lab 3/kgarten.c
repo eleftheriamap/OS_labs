@@ -6,15 +6,7 @@
  * are not synchronized properly.
  *
  * 
- * Author: 
- * Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
- *
- * Additional Authors:
- * Stefanos Gerangelos <sgerag@cslab.ece.ntua.gr>
- * Anastassios Nanos <ananos@cslab.ece.ntua.gr>
- * Operating Systems course, ECE, NTUA
- *
- */
+
 
 #include <time.h>
 #include <errno.h>
